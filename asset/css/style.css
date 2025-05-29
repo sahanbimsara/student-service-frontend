@@ -3,3 +3,13 @@
     background-color: burlywood;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+body{
+    background-image: url(../img/pexels-rdne-7888647.jpg);
+    background-size: cover;
+}
+#font{
+    text-decoration-color: aliceblue;
+}
+.form-label{
+    text-decoration:white
+}
